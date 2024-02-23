@@ -1,0 +1,8 @@
+@charset "UTF-8";
+form#join label{
+	width: 140px;
+	float: left;
+	margin-left: 5px;
+	padding-left: 5px;
+	background-color: #eee;
+}
